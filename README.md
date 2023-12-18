@@ -1,5 +1,5 @@
 # CSC-15
-A compilation of all my First Java Projects and Work
+A compilation of all my First Java Projects Outside of Lab Work
 
 Caesar Cipher (Simple message encrypter)
   - EncryptionMachineMain
