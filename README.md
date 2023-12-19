@@ -12,3 +12,7 @@ Trivia Game (First Project Using Arrays)
 Guessing Game (While Loop Guess Game)
   - GuessTheNumberMain
   - GuessTheNumberHelper
+
+Lab 13 (Reads from Text store in array)
+  - StudentGrades
+  - Student
