@@ -16,3 +16,7 @@ Guessing Game (While Loop Guess Game)
 Lab 13 (Reads from Text store in array)
   - StudentGrades
   - Student
+
+Lab 12 (Creating Circle Class and Driver file)
+  - CircleMain
+  - Circle
