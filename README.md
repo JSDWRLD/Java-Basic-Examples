@@ -5,7 +5,7 @@ Caesar Cipher (Simple message encrypter)
   - EncryptionMachineMain
   - EncryptionMachineHelper
 
-Trivia Game (First Project Using Arrays)
+Assignment 7 (Trivia Game)
   - TrivaGameMain
   - TriviaGameHelper
 
