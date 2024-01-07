@@ -20,3 +20,12 @@ Lab 13 (Reads from Text store in array)
 Lab 12 (Creating Circle Class and Driver file)
   - CircleMain
   - Circle
+
+Lab 10 (Take out Menu)
+  - TakeOut
+  - TakeOutHelper
+
+Lab 7 (Check Calender Date if Valid)
+  - Main  
+  - DatesNew
+  - DatesHelper
