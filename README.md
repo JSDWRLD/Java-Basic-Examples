@@ -29,3 +29,11 @@ Lab 7 (Check Calender Date if Valid)
   - Main  
   - DatesNew
   - DatesHelper
+
+Lab 6 (Padding to String)
+  - PadString
+  - PadStringHelper
+
+Lab 5 (Calculating Circumference)
+  - CircumferenceMain  
+  - CircumferenceHelper
