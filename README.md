@@ -13,6 +13,11 @@ Guessing Game (While Loop Guess Game)
   - GuessTheNumberMain
   - GuessTheNumberHelper
 
+Assignment 4 (A Budgeting Program)
+  - BudgeterMain
+  - BudgeterHelper
+  - CoursePassing
+  
 Lab 13 (Reads from Text store in array)
   - StudentGrades
   - Student
