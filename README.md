@@ -1,10 +1,6 @@
 # CSC-15
 A compilation of all my First Java Projects Outside of Lab Work
 
-Caesar Cipher (Simple message encrypter)
-  - EncryptionMachineMain
-  - EncryptionMachineHelper
-
 Assignment 7 (Trivia Game)
   - TrivaGameMain
   - TriviaGameHelper
@@ -17,6 +13,10 @@ Assignment 4 (A Budgeting Program)
   - BudgeterMain
   - BudgeterHelper
   - CoursePassing
+
+Assignment 3 (Caesar Cipher) 
+  - EncryptionMachineMain
+  - EncryptionMachineHelper
   
 Lab 13 (Reads from Text store in array)
   - StudentGrades
