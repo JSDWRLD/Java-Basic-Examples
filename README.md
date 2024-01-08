@@ -9,7 +9,7 @@ Assignment 7 (Trivia Game)
   - TrivaGameMain
   - TriviaGameHelper
 
-Guessing Game (While Loop Guess Game)
+Assignment 5 (Guessing Game)
   - GuessTheNumberMain
   - GuessTheNumberHelper
 
