@@ -1,22 +1,22 @@
 # CSC-15
 A compilation of all my First Java Projects Outside of Lab Work
 
-Assignment 7 (Trivia Game)
-  - TrivaGameMain
-  - TriviaGameHelper
-
-Assignment 5 (Guessing Game)
-  - GuessTheNumberMain
-  - GuessTheNumberHelper
+Assignment 3 (Caesar Cipher) 
+  - EncryptionMachineMain
+  - EncryptionMachineHelper
 
 Assignment 4 (A Budgeting Program)
   - BudgeterMain
   - BudgeterHelper
   - CoursePassing
 
-Assignment 3 (Caesar Cipher) 
-  - EncryptionMachineMain
-  - EncryptionMachineHelper
+Assignment 5 (Guessing Game)
+  - GuessTheNumberMain
+  - GuessTheNumberHelper
+
+Assignment 7 (Trivia Game)
+  - TrivaGameMain
+  - TriviaGameHelper
   
 Lab 13 (Reads from Text store in array)
   - StudentGrades
