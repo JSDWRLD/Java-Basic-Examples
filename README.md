@@ -1,5 +1,5 @@
 # CSC-15
-A compilation of all my First Java Projects Outside of Lab Work
+# A compilation of all my First Java Projects Outside of Lab Work
 
 Assignment 3 (Caesar Cipher) 
   - EncryptionMachineMain
