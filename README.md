@@ -1,6 +1,6 @@
-# CSC-15: First Java Projects Outside of Lab Work
+# CSC-15
 
-This repository serves as a compilation of my initial forays into Java programming beyond the confines of structured laboratory assignments.
+This repository serves as a compilation of my Java programming.
 
 - **Assignment 3: Encryption with Caesar Cipher**
   - EncryptionMachineMain.java
