@@ -1,6 +1,6 @@
-# CSC-15
+# Java-Basic-Examples
 
-This repository serves as a compilation of my Java programming.
+This repository serves as a compilation of my first initial Java programming.
 
 - **Assignment 3: Encryption with Caesar Cipher**
   - EncryptionMachineMain.java
